@@ -1,0 +1,26 @@
+.bgi{
+	background-image:url("back.jpg");
+	background-repeat:no-repeat; background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.navb{
+	     background-color: #bbbbbb ;; 
+		overflow: hidden;
+}
+.navb a{
+	float:left;
+	color:#ffffff;
+	text-align: center;
+	padding: 14px  16px;
+	text-decoration:none;
+	font-size:18px;
+}
+.navb a:hover{
+	background-color:#33ffaa;
+	color:#bbbbbb;
+}
+.navb a.active{
+	background-color:#5bafcc;
+	color:d37eee;
+}
